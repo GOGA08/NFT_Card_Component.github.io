@@ -156,11 +156,11 @@ span {
 
 /* hover */
 
-.main-image:hover > .overlay {
+.image:hover > .overlay {
     opacity: 50%;
 }
 
-.main-image:hover > .view-icon {
+.image:hover > .view-icon {
     opacity: 100%;
 }
   
